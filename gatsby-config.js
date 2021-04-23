@@ -14,6 +14,11 @@ module.exports = {
     menu: siteConfig.menu,
     author: siteConfig.author
   },
+  flags: {
+      PRESERVE_WEBPACK_CACHE: true,
+      PRESERVE_FILE_DOWNLOAD_CACHE: true,
+      FAST_DEV: true
+  },
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
