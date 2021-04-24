@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  url: 'https://jademaveric.github.io/',
+  pathPrefix: '/gatsby-starter-lumen/',
   title: 'Julius Alphonso',
   subtitle: 'Polyglot programmer, maker of peculiar things, lover of pianos',
   copyright: '© All rights reserved.',
